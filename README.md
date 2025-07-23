@@ -1,4 +1,4 @@
-# BMI Calculator using LangGraph and Streamlit
+# BMI Calculator (LangGraph + Streamlit)
 
 A simple Body Mass Index (BMI) calculator built with Streamlit and LangGraph that demonstrates workflow automation for health calculations.
 
