@@ -78,4 +78,4 @@ The application displays:
 
 ## Note
 
-This application is for educational and informational purposes only. BMI is a general indicator and should not replace professional medical advice. Consult healthcare professionals for comprehensive health assessments.
+This application is for educational and informational purposes only.
